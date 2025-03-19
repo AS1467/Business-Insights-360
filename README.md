@@ -19,17 +19,6 @@ This **Power BI dashboard** was built as a side project to analyze and visualize
 - ✔ **Data Modeling** – Created relationships between fact and dimension tables.
 - ✔ **Visualization & Storytelling** – Designed an intuitive dashboard for better user experience.
 
-## 🚀 Project Impact
-- 🔹 Simplified **data-driven decision-making** with intuitive visuals.
-- 🔹 Provided actionable insights into **financial, sales, and supply chain performance**.
-- 🔹 Helped identify areas for **cost optimization and revenue growth**.
-- 🔹 Strengthened **BI, data analytics, and dashboard design** skills.
-
-💡 This project was a **fun learning experience**, reinforcing my passion for **Business Intelligence & Data Analytics**!
-
----
-
-Would love to hear feedback from the community! Let’s connect and discuss **BI, Power BI, and Data Analytics!** 🚀
 
 ## 📥 Download the Project Files
 ![1](https://github.com/user-attachments/assets/c7c19c39-2f08-4a0b-a5c9-a37ae321696e)
