@@ -25,3 +25,8 @@ This repository contains **Business Intelligence (BI) and Data Analytics** proje
 ### **4️⃣ Financial Performance Dashboard**
 💰 Analyzed company financials using key ratios & profitability trends.  
 ✅ **KPIs:** Revenue, Net Profit Margin, Expense Analysis
+
+## 📥 Download the Project Files
+You can download the full project files from **Google Drive**:
+
+🔗 [Click Here to Access the Project](https://drive.google.com/file/d/1GUq66RVaHjmHvjArwbHx3jbuGZqnWG3y/view?usp=sharing)
