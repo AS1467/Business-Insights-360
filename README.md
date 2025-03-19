@@ -1,30 +1,35 @@
-# **Business Insights 360 – Codebasics Projects**
+# 🚀 Business Insights 360 – Power BI Project
 
-## 🔍 Overview
-This repository contains **Business Intelligence (BI) and Data Analytics** projects inspired by the **Codebasics Business Insights 360** series. The projects focus on solving real-world business problems using **Power BI, SQL, Excel, and Python** to extract valuable insights.
+## 📌 Project Overview
+This **Power BI dashboard** was built as a side project to analyze and visualize business performance for **AtliQ Hardware**, a computer hardware company selling across multiple platforms. The goal was to turn **raw data into meaningful insights** and help decision-makers gain a **360° view of business operations**.
 
-## 🛠 Tech Stack & Tools Used
-- **Power BI** – Interactive dashboards & data visualization
-- **SQL** – Data extraction & transformation
-- **Excel** – Data cleaning & analysis
-- **Python** (Pandas, Matplotlib, Seaborn) – Advanced analytics
+## 🎯 Key Objectives
+- ✅ **Financial Analysis** – Track revenue, expenses, and profit trends.
+- ✅ **Sales Performance** – Identify top/bottom-performing products and customers.
+- ✅ **Marketing Insights** – Evaluate product demand and marketing effectiveness.
+- ✅ **Supply Chain Metrics** – Assess forecast accuracy and order reliability.
+- ✅ **Executive Summary** – Provide a high-level dashboard for quick decision-making.
 
-## 📂 Project List
-### **1️⃣ Sales Performance Analysis**
-📊 Analyzed regional & product-wise sales trends to optimize business strategy.  
-✅ **Key Metrics:** Revenue, Growth Rate, Market Share
+## 🛠 Tech Stack & Skills Used
+- ✔ **Power BI Desktop** – Built interactive dashboards & reports.
+- ✔ **MySQL** – Extracted and transformed raw data.
+- ✔ **Excel** – Cleaned and validated data before analysis.
+- ✔ **DAX & DAX Studio** – Applied calculations and optimized performance.
+- ✔ **ETL Processes** – Processed and structured data for better insights.
+- ✔ **Data Modeling** – Created relationships between fact and dimension tables.
+- ✔ **Visualization & Storytelling** – Designed an intuitive dashboard for better user experience.
 
-### **2️⃣ Customer Segmentation & Retention**
-🎯 Identified customer segments & behavior patterns to improve retention.  
-✅ **Techniques:** RFM Analysis, Cohort Analysis
+## 🚀 Project Impact
+- 🔹 Simplified **data-driven decision-making** with intuitive visuals.
+- 🔹 Provided actionable insights into **financial, sales, and supply chain performance**.
+- 🔹 Helped identify areas for **cost optimization and revenue growth**.
+- 🔹 Strengthened **BI, data analytics, and dashboard design** skills.
 
-### **3️⃣ Supply Chain & Inventory Optimization**
-📦 Improved inventory management through demand forecasting.  
-✅ **Metrics:** Stock Levels, Lead Time, Fill Rate
+💡 This project was a **fun learning experience**, reinforcing my passion for **Business Intelligence & Data Analytics**!
 
-### **4️⃣ Financial Performance Dashboard**
-💰 Analyzed company financials using key ratios & profitability trends.  
-✅ **KPIs:** Revenue, Net Profit Margin, Expense Analysis
+---
+
+Would love to hear feedback from the community! Let’s connect and discuss **BI, Power BI, and Data Analytics!** 🚀
 
 ## 📥 Download the Project Files
 ![1](https://github.com/user-attachments/assets/c7c19c39-2f08-4a0b-a5c9-a37ae321696e)
